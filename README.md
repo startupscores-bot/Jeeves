@@ -1,15 +1,17 @@
 # Jeeves
 
+> ### 🚧 COMING SOON
+> **Jeeves is being rebuilt from the ground up and is not ready for use.**
+> The features described below were built for an earlier version (0.3.x) that has
+> been withdrawn. The npm package is deprecated — please don't install it.
+> When the rebuilt Jeeves is ready, it will be announced at
+> [tianmucreations.com/jeeves](https://tianmucreations.com/jeeves/).
+
 **Your personal assistant in the terminal — built for non-coders and coders alike. Say what you need in plain English; Jeeves does the work, carefully, and tells you what it cost.**
 
 Jeeves reads and writes your files, tidies folders, builds web pages, fixes programs and checks facts on the web — all from one calm window, in ordinary language. He asks before changing anything, can put things back, remembers what you tell him, and keeps an eye on your costs. No commands to learn — every choice is a button — and if you do code, every model and every detail is there when you want it.
 
-```
-npm install -g @tianmucreations/jeeves
-jeeves
-```
-
-Needs [Node.js](https://nodejs.org) 22.12 or newer, and a key from an AI service — one [OpenRouter](https://openrouter.ai/settings/keys) key is all it takes.
+**Not installable yet.** The install instructions below have been withdrawn until the rebuilt version is ready.
 
 ---
 
